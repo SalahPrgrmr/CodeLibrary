@@ -1,4 +1,4 @@
-# CodeLibrary | مكتبةالأكواد ودليلك لحفظ الاكواد البرمجية
+# CodeLibrary | مشروع بسيط : مكتبة لحفظ الاكواد والدروس حسب اللغة والتصنيف
 
 Code Library for Tutorial Purpose
 
