@@ -1,9 +1,15 @@
-# CodeLibrary
+# CodeLibrary | مكتبةالأكواد ودليلك لحفظ الاكواد البرمجية
 Code Library for Tutorial Purpose
 
 ﻿# Lessons & Codes Library
  
- ﻿# Eng.Salah Hamoud | Full Stack Developer
+﻿# Eng.Salah Hamoud | Full Stack Developer
+  
+﻿# Demo : http://programmingsolutions.epizy.com/projects/CodeLibrary
+
+﻿# Login
+-Username: admin@admin.com
+-Password: password123
  
  
 ﻿# Using
