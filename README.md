@@ -1,5 +1,5 @@
 # CodeLibrary | A Simple Project: Save Codes & Lessons by Language and Category  
-<sub><span style="color:white"><i>كود لايبرري | مشروع بسيط: مكتبة لحفظ الأكواد والدروس حسب اللغة والتصنيف</i></span></sub>
+<sub><span style="color:white"><i>مكتبة الدروس والاكواد | مشروع بسيط: مكتبة لحفظ الأكواد والدروس حسب اللغة والتصنيف</i></span></sub>
 
 ---
 
@@ -30,10 +30,6 @@ It’s mainly designed for learning and storing code snippets or tutorials categ
 - **Username:** admin@admin.com  
 - **Password:** password123  
 
-<sub><span style="color:white"><i>بيانات تسجيل الدخول للتجربة:  
-اسم المستخدم: admin@admin.com  
-كلمة المرور: password123</i></span></sub>
-
 ---
 
 ## ⚙️ Technologies Used  
@@ -43,12 +39,6 @@ It’s mainly designed for learning and storing code snippets or tutorials categ
 - JavaScript  
 - SaaS structure  
 
-<sub><span style="color:white"><i>التقنيات المستخدمة:  
-- PHP + MySQL (الخلفية)  
-- Symfony + PHP MySQL Generator  
-- Vue.js + Bootstrap (الواجهة)  
-- JavaScript  
-- هيكل SaaS</i></span></sub>
 
 ---
 
@@ -85,21 +75,10 @@ It’s mainly designed for learning and storing code snippets or tutorials categ
 ## 📬 Contact  
 If you’d like to build a project, website, system, or need hosting/development services, feel free to get in touch:  
 
-- 📧 **Email:** eng.salah@example.com  
-- 💼 **LinkedIn:** [linkedin.com/in/engsalah](https://linkedin.com/in/engsalah)  
+- 📧 **Email:** sala7mod@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/salah-hamoud](https://linkedin.com/in/salah-hamoud)  
 
-<sub><span style="color:white"><i>للتواصل لإنشاء مشروع، موقع، نظام، أو خدمات استضافة/تطوير:  
-- البريد الإلكتروني: eng.salah@example.com  
-- لينكدإن: linkedin.com/in/engsalah</i></span></sub>
-
----
+___
 
 ## 👁️ Visitors Count  
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yourusername/CodeLibrary&count_bg=%23007EC6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)  
-
-<sub><span style="color:white"><i>عداد الزوار (يستثني زياراتك أثناء تسجيل دخولك في GitHub)</i></span></sub>
-
----
-
-## ✅ End 🙂  
-<sub><span style="color:white"><i>النهاية 🙂</i></span></sub>
