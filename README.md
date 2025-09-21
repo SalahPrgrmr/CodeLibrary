@@ -75,10 +75,18 @@ It’s mainly designed for learning and storing code snippets or tutorials categ
 ## 📬 Contact  
 If you’d like to build a project, website, system, or need hosting/development services, feel free to get in touch:  
 
-- 📧 **Email:** sala7mod@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/salah-hamoud](https://linkedin.com/in/salah-hamoud)  
+___
+
+## 📫 Let's Connect  
+- 🐙 [GitHub](https://github.com/SalahPrgrmr)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/salah-hamoud)  
+- 📄 [Indeed](https://profile.indeed.com/p/salahh-jimv8iz)  
+- 📱 [WhatsApp](https://wa.me/967734856121)  
+- 📧 [Email](mailto:prgrmr.salahv@gmail.com)
+
 
 ___
 
-## 👁️ Visitors Count  
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yourusername/CodeLibrary&count_bg=%23007EC6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)  
+## 👁️ Visitors  
+
+![Project Views](https://komarev.com/ghpvc/?username=SalahPrgrmr&repo=CodeLibrary&color=blueviolet&style=flat)
